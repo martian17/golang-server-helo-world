@@ -1,4 +1,4 @@
-module example.com/m/v
+module github.com/martian17/golang-server-helo-world
 
 go 1.18
 
